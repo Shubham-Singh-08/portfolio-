@@ -2,7 +2,7 @@
 <div align="center">
   
 
-  <h2 align="center">Avinash PortFollio</h2>
+  <h2 align="center">Shubham PortFollio</h2>
 
   This website is fully responsive personal portfolio, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
@@ -16,12 +16,6 @@
 
 <br />
 
-
-###
-[Avinash Ghadge Portfolio Desktop Demo]
-
-
-### This project is **free to use** and does not contains any license.
 
 
 <div align="center">
